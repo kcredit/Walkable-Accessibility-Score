@@ -5,4 +5,4 @@ The full set of aggregated WAS values at the block group level for the continent
 
 Please cite the conference paper when using the aggregate data or code:
 
-Credit, K., Farah, I., Talen, E., Anseline, L., & Ghomrawi, H. (2024). The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. Proceedings of the 32nd GISRUK Conference. Available from: https://zenodo.org/communities/gisruk2023/records?q=&l=list&p=1&s=10&sort=newest.
+Credit, K., Farah, I., Talen, E., Anseline, L., & Ghomrawi, H. (2024). The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. *Proceedings of the 32nd GISRUK Conference*. Available from: https://zenodo.org/communities/gisruk2023/records?q=&l=list&p=1&s=10&sort=newest.
