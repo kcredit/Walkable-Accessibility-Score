@@ -6,7 +6,7 @@ This repository contains two main notebooks:
 - [Running the Walkable Accessiblity Score for all years from 1997 to 2019](https://github.com/kcredit/Walkable-Accessibility-Score/blob/main/src/for_all_years.ipynb)
 
 Please note that you will not be able to replicate the analysis if you do not have InfoUSA data. However, you can replicate the analysis using your own POI data.
-For this reason, we created two [tutorials](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/tutorials) with public open data so that you can follow along the code and make sure it is working correctly in your computer.
+For this reason, we created two [tutorials](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/src/tutorials) with public open data so that you can follow along the code and make sure it is working correctly in your computer.
 
 The full set of aggregated WAS values at the block group level for the continental US from 1997-2019 are provided for download in the shapefile 'US_WAS_1997_2019.zip' in the [output folder](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/output).
 
