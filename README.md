@@ -1,7 +1,10 @@
 # Walkable Accessibility Score
-This repository contains the code (and links to downloadable data of the outputs) for calculating an open source Walkable Accessibility Score (WAS), a spatially-granular measure of walkability based on point of interest (POI) data. The method in the supplied Jupyter Notebook can be applied from any set of demand units to any set of supply points; in this case we have used US Census block groups as the demand units and InfoUSA business points (in addition to school and park locations) as the supply points. The paper describing parameter fine-tuning and comparison to proprietary walkability metrics is forthcoming; an extended abstract for the paper appears in the proceedings for the [2024 GISRUK Conference](https://zenodo.org/communities/gisruk2024/records?q=&l=list&p=1&s=10&sort=newest). 
+This repository contains the code and downloadable data for calculating an open source Walkable Accessibility Score (WAS), a spatially-granular measure of walkability based on point of interest (POI) data from 1997 to 2019. The method in the supplied Jupyter Notebook can be applied from any set of demand units to any set of supply points; in this case we have used US Census block groups as the demand units and InfoUSA business points (in addition to school and park locations) as the supply points. The paper describing parameter fine-tuning and comparison to proprietary walkability metrics is forthcoming; an extended abstract for the paper appears in the proceedings for the [2024 GISRUK Conference](https://zenodo.org/communities/gisruk2024/records?q=&l=list&p=1&s=10&sort=newest). 
 
-The full set of aggregated WAS values at the block group level for the continental US from 1997-2019 are provided for download in the shapefile 'US48walkability_BG.zip' [here](https://www.dropbox.com/scl/fi/w9762idnq1s3dl02b8x37/US48walkability_BG.zip?rlkey=gdq1ee9vpnn2ob0bu9pdxknx3&dl=0). 
+Please note that you will not be able to replicate the analysis if you do not have InfoUSA data. However, you can replicate the analysis using your own POI data.
+For this reason, we created two demos with public open data so that you can follow along the code and make sure it is working correctly in your computer.
+
+The full set of aggregated WAS values at the block group level for the continental US from 1997-2019 are provided for download in the shapefile 'US_WAS_1997_2019.zip' in the [output folder](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/output). 
 
 Please cite the conference paper when using the aggregate data or code:
 
