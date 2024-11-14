@@ -1,0 +1,30 @@
+﻿Identifier: MEX-INEGI.EEC2.05-DENUE-2024
+
+Title: Directorio Estadístico Nacional de Unidades Económicas (DENUE) 05_2024
+
+Description: El Directorio Estadístico Nacional de Unidades Económicas ofrece datos de identificación, ubicación, actividad económica y tamaño de los negocios activos en el territorio nacional, actualizados, fundamentalmente, en el segmento de los establecimientos grandes.
+
+NOTA: Para mayor detalle consultar el documento metodológico en:
+https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=702825192730
+
+Modified: 2024-05-23
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/inegi/terminos.html
+
+DataDictionary: 
+
+Keyword: directorio, unidades económicas, establecimientos, registro de establecimientos, unidades económicas nuevas, registro estadístico de unidades económicas, DENUE, DENUE Interactivo
+
+ContactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+Temporal: 2024-05
+
+Spatial: Estados Unidos Mexicanos.
+
+AccrualPeriodicity: ANUAL
+
+Distribution: https://www.inegi.org.mx/app/descarga/?ti=6
