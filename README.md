@@ -9,7 +9,9 @@ This repository contains three main notebooks:
 Please note that you will not be able to replicate the analysis if you do not have InfoUSA data. However, you can replicate the analysis using your own POI data.
 For this reason, we created two [tutorials](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/tutorials) with public open data so that you can follow along the code and make sure it is working correctly in your computer.
 
-The full set of aggregated WAS values at the block group level for the continental US from 1997-2019 are provided for download in the shapefile 'US_WAS_1997_2019.shp.zip' in the [output folder](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/output).
+The full set of aggregated WAS values at the block group level for the continental US from 1997-2019 are provided for download in the shapefile 'US_WAS_1997_2019.shp.zip' in the [output folder](https://github.com/kcredit/Walkable-Accessibility-Score/tree/main/output). You can also find an interactive map of the WAS, where you can explore values for the entire US [here](https://experience.arcgis.com/experience/ce83fc13e21c415ab9e12427da3d53df?draft=true).
+
+<img width="1782" height="757" alt="Screenshot 2025-09-15 at 10 09 51" src="https://github.com/user-attachments/assets/059e9e07-c670-445c-8b69-ae901849ab70" />
 
 Please cite the conference paper when using the aggregate data or code:
 
