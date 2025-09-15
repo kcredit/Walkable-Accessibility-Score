@@ -1,5 +1,5 @@
 # Walkable Accessibility Score
-This repository contains the code and downloadable data for calculating an open source Walkable Accessibility Score (WAS), a spatially-granular measure of walkability based on point of interest (POI) data from 1997 to 2019. The method in the supplied Jupyter Notebooks can be applied from any set of demand units to any set of supply points; in this case we have used US Census block groups as the demand units and InfoUSA business points (in addition to school and park locations) as the supply points. The paper describing parameter fine-tuning and comparison to proprietary walkability metrics is forthcoming; an extended abstract for the paper appears in the proceedings for the [2024 GISRUK Conference](https://zenodo.org/communities/gisruk2024/records?q=&l=list&p=1&s=10&sort=newest). 
+This repository contains the code and downloadable data for calculating an open source Walkable Accessibility Score (WAS), a spatially-granular measure of walkability based on point of interest (POI) data from 1997 to 2019. The method in the supplied Jupyter Notebooks can be applied from any set of demand units to any set of supply points; in this case we have used US Census block groups as the demand units and InfoUSA business points (in addition to school and park locations) as the supply points. The paper describing parameter fine-tuning and comparison to proprietary walkability metrics has been pubished in _Environment and Planning B_ and can be found [here](https://journals.sagepub.com/doi/10.1177/23998083251377116). 
 
 This repository contains three main notebooks:
 - [Comparing the 2011 Walkscore data with the Walkable Accessibilty Score](https://github.com/kcredit/Walkable-Accessibility-Score/blob/main/src/Correlations%20between%20WS%20and%20WAS.ipynb)
@@ -13,4 +13,4 @@ The full set of aggregated WAS values at the block group level for the continent
 
 Please cite the conference paper when using the aggregate data or code:
 
-Credit, K., Farah, I., Talen, E., Anselin, L., & Ghomrawi, H. (2024). The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. *Proceedings of the 32nd GISRUK Conference*. Available from: https://zenodo.org/records/10899286.
+Credit, K., Farah, I., Talen, E., Anselin, L., & Ghomrawi, H. (2025). The Walkable Accessibility Score (WAS): A spatially-granular open-source measure of walkability for the continental US from 1997-2019. *Environment and Planning B*. DOI: https://doi.org/10.1177/23998083251377116.
